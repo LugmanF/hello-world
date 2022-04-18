@@ -1,2 +1,4 @@
-Hello, what a wonderful day
-cool monday
+easter monday
+Sunday was yesterday
+Tuesday is tommorrow
+
